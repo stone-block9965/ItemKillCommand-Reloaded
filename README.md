@@ -2,7 +2,6 @@
 
 Minecraft Java Edition **26.3** の Folia / Paper 用プラグイン  
 それ以外言うことないかも  
-本家はね...Foliaｶﾞ-(?)  
 
 ## 開発
 
